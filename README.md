@@ -1,5 +1,5 @@
 # PROFILE
-![image](https://user-images.githubusercontent.com/100174682/193455362-aea5aea0-46d1-40da-9467-9f1f91c26309.png)
+
 <!--
 **jerryc2uu/jerryc2uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
