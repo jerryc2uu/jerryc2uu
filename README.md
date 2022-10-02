@@ -1,4 +1,4 @@
-# 포기를 모르는 개발자 박소연입니다.
+# PROFILE
 
 <!--
 **jerryc2uu/jerryc2uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
