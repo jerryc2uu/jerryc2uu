@@ -1,7 +1,7 @@
 # PROFILE
 - 박소연(SOYEON PARK)
-- 광운대학교 국어국문학과, 산업심리학과 학사 (2021.02)
-- 자바 프론트엔드 & 백엔드 풀스택 개발자 양성 과정 (2022.08) 
+  - 광운대학교 국어국문학과, 산업심리학과 학사 (2021.02)
+  - 자바 프론트엔드 & 백엔드 풀스택 개발자 양성 과정 (2022.08) 
 
 <!--
 **jerryc2uu/jerryc2uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
