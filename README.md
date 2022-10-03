@@ -37,3 +37,11 @@
 * 개발 기간 : 2022/06/28 - 2022/07/28
 * 개발 인원 : 3명
 * 개발 환경 : JAVA, Spring Framework, Oracle, MyBatis, import API etc
+
+
+# Study
+
+* 남궁성, 『자바의 정석』, 3rd Edition, 도우출판, 2016.
+* 황희정, 『JSP 웹 프로그래밍과 스프링 프레임워크』, 한빛아카데미, 2021
+* 김인권, 『모두의 HTML5 & CSS3』, 길벗, 2018
+
