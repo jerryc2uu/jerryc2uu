@@ -32,9 +32,10 @@
 실패는 한 발자국 내딛기 위한 계단이라고 생각해 실패에 별 데미지를 받지 않습니다.
 
 
-***
 
 # Project
 
 #### BOARA
-
+* 개발 기간 : 2022/06/28 - 2022/07/28
+* 개발 인원 : 3명
+* 개발 환경 : JAVA, Spring Framework, Oracle, MyBatis, import API 
