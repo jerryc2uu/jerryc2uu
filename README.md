@@ -7,7 +7,7 @@
 
 #### SKILL
 
-![image](https://user-images.githubusercontent.com/100174682/193553136-89a77703-b3f2-43d3-9da6-8d4b7bad74fa.png)
+![image](https://user-images.githubusercontent.com/100174682/193554578-9b522238-5a0f-455e-86e7-7628992c2526.png)
 
 
 
