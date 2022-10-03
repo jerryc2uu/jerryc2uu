@@ -2,7 +2,7 @@
 
 #### PROFLIE
 
-![image](https://user-images.githubusercontent.com/100174682/193554068-d515c5dc-6c5e-46eb-abf8-254f0fcb87c4.png)
+![image](https://user-images.githubusercontent.com/100174682/193555450-df9b0f91-3775-4c0d-bc79-db7c65e2805b.png)
 
 
 #### SKILL
@@ -34,4 +34,7 @@
 
 ***
 
+# Project
+
+#### BOARA
 
