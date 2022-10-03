@@ -37,7 +37,7 @@
 * 개발 기간 : 2022/06/28 - 2022/07/28
 * 개발 인원 : 3명
 * 개발 환경
-  * WINDOW 10
+  * Windows 10
   * Eclipse
   * GitHub
 * 개발 툴  
@@ -50,6 +50,14 @@
   * jQuery
   * import
   * InterPark
+
+#### [PetPan](https://github.com/jerryc2uu/PetPan)
+* 개발 기간 : 2022/10/03 -
+* 개발 인원 : 1명 (개인 프로젝트)
+* 개발 환경
+  * Windows 10
+  * Eclipse
+  * GitHub
 
 # Study
 
