@@ -1,14 +1,17 @@
 # JAVA 기반 백엔드 프레임워크를 다루는 개발자 박소연입니다.
 
+#### PROFLIE
 
 ![image](https://user-images.githubusercontent.com/100174682/193554068-d515c5dc-6c5e-46eb-abf8-254f0fcb87c4.png)
 
+
+#### SKILL
 
 ![image](https://user-images.githubusercontent.com/100174682/193553136-89a77703-b3f2-43d3-9da6-8d4b7bad74fa.png)
 
 
 
-#### 1. 끊임없는 발전
+#### 끊임없는 발전
 
 지적 호기심이 왕성해 새로운 것을 배우는 과정 자체를 즐깁니다.
 
@@ -16,7 +19,7 @@
 
 &nbsp;
 
-#### 2. 강한 인내심과 끈기
+#### 강한 인내심과 끈기
 
 
 *"빠르게 실패하자"*
