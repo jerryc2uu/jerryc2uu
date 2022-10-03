@@ -1,6 +1,7 @@
 # JAVA 기반 백엔드 프레임워크를 다루는 개발자 박소연입니다.
 
-                           ![image](https://user-images.githubusercontent.com/100174682/193554068-d515c5dc-6c5e-46eb-abf8-254f0fcb87c4.png)
+
+![image](https://user-images.githubusercontent.com/100174682/193554068-d515c5dc-6c5e-46eb-abf8-254f0fcb87c4.png)
 
 
 ![image](https://user-images.githubusercontent.com/100174682/193553136-89a77703-b3f2-43d3-9da6-8d4b7bad74fa.png)
