@@ -9,8 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/100174682/193554578-9b522238-5a0f-455e-86e7-7628992c2526.png)
 
-
-
 #### 끊임없는 발전
 
 지적 호기심이 왕성해 새로운 것을 배우는 과정을 즐깁니다.
