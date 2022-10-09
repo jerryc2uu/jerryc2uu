@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/100174682/193555450-df9b0f91-3775-4c0d-bc79-db7c65e2805b.png)
 
 
-### SKILL
+### Stack
 
 ![image](https://user-images.githubusercontent.com/100174682/193554578-9b522238-5a0f-455e-86e7-7628992c2526.png)
 
