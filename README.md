@@ -51,7 +51,7 @@
   * InterPark
 
 #### [myBlog](https://github.com/jerryc2uu/PetPan)
-* 개발 기간 : 2022/10 -
+* 개발 기간 : 2022/10
 * 개발 인원 : 1명 (개인 프로젝트)
 * 개발 환경
   * Windows 10
